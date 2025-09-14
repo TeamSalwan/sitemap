@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Home page -->
+  <url>
+    <loc>https://www.ashtonsalwan.com/</loc>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Gallery hub -->
+  <url>
+    <loc>https://www.ashtonsalwan.com/gallery</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- CMS articles -->
+  <url>
+    <loc>https://www.ashtonsalwan.com/gallery/where-it-all-started</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.ashtonsalwan.com/gallery/sponsor-garage-finisher</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.ashtonsalwan.com/gallery/leveling-up-abroad</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.ashtonsalwan.com/gallery/flying-ace-all-stars</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.ashtonsalwan.com/gallery/2024-water-ramp-season</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.ashtonsalwan.com/gallery/eurocup-ruka-2024-synchro</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.ashtonsalwan.com/gallery/coach-enver-ablaev</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.ashtonsalwan.com/gallery/sponsor-woolly-bear-outerwear</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.ashtonsalwan.com/gallery/bristol-mountain-success-2025</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.ashtonsalwan.com/gallery/world-cup-lake-placid-2025</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.ashtonsalwan.com/gallery/world-cup-lac-beauport-2025</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.ashtonsalwan.com/gallery/world-cup-deer-valley-2025</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.ashtonsalwan.com/gallery/noram-cup-tour-2025</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.ashtonsalwan.com/gallery/coach-matt-saunders</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.ashtonsalwan.com/gallery/world-cup-almaty-2025</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.ashtonsalwan.com/gallery/eurocup-airolo-2025</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.ashtonsalwan.com/gallery/2024-2025-review</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.ashtonsalwan.com/gallery/sponsor-ss2025</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.ashtonsalwan.com/gallery/rookie-status-unlocked</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.ashtonsalwan.com/gallery/made-in-summer</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.ashtonsalwan.com/gallery/coach-bill-harris</loc>
+    <priority>0.6</priority>
+  </url>
+
+</urlset>
